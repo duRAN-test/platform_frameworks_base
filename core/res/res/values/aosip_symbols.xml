@@ -210,4 +210,10 @@
        0 - Celsius
        1 - Fahrenheit -->
   <java-symbol type="integer" name="weather_lockscreen_default_unit" />
+
+  <!-- Show battery fully charged notification -->
+  <java-symbol type="string" name="battery_charged_channel_name" />
+  <java-symbol type="string" name="notify_battery_fully_charged_title" />
+  <java-symbol type="string" name="notify_battery_fully_charged_text" />
+
 </resources>
