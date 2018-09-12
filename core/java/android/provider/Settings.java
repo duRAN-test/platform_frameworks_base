@@ -5333,6 +5333,13 @@ public final class Settings {
         public static final String LOCK_SCREEN_VISUALIZER_CUSTOM_COLOR = "lock_screen_visualizer_custom_color";
 
         /**
+	 ** Change fonts for the system lockscreen clock widget
+	 **
+	 ** @hide
+	 **/
+        public static final String LOCK_CLOCK_FONTS = "lock_clock_fonts";
+
+        /**
          * modify how the album art shows up on lockscreen
          * 0 - default
          * 1 - grayscale
