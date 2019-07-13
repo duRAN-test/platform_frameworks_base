@@ -4367,6 +4367,16 @@ public final class Settings {
         private static final Validator POWERMENU_AIRPLANE_VALIDATOR =
                 BOOLEAN_VALIDATOR;
 
+        /**
+         * Weather lockscreen temperature scale
+         * @hide
+         */
+        public static final String WEATHER_LOCKSCREEN_UNIT = "weather_lockscreen_unit";
+
+        /** @hide */
+        private static final Validator WEATHER_LOCKSCREEN_UNIT_VALIDATOR =
+               BOOLEAN_VALIDATOR;
+
          /**
          * Show or hide clock
          * 0 - hide
@@ -5809,6 +5819,7 @@ public final class Settings {
             STATUS_BAR_CUSTOM_HEADER_IMAGE,
             STATUS_BAR_FILE_HEADER_IMAGE,
             LOCK_HIDE_STATUS_BAR,
+            WEATHER_LOCKSCREEN_UNIT,
         };
 
         /**
@@ -5974,6 +5985,7 @@ public final class Settings {
             PUBLIC_SETTINGS.add(BUTTON_BACKLIGHT_TIMEOUT);
             PUBLIC_SETTINGS.add(BUTTON_BACKLIGHT_ON_TOUCH_ONLY);
             PUBLIC_SETTINGS.add(STATUS_BAR_LOGO);
+            PUBLIC_SETTINGS.add(WEATHER_LOCKSCREEN_UNIT);
         }
 
         /**
@@ -6232,6 +6244,7 @@ public final class Settings {
             VALIDATORS.put(STATUS_BAR_CUSTOM_HEADER_IMAGE, STATUS_BAR_CUSTOM_HEADER_IMAGE_VALIDATOR);
             VALIDATORS.put(STATUS_BAR_FILE_HEADER_IMAGE, STATUS_BAR_FILE_HEADER_IMAGE_VALIDATOR);
             VALIDATORS.put(LOCK_HIDE_STATUS_BAR,LOCK_HIDE_STATUS_BAR_VALIDATOR);
+            VALIDATORS.put(WEATHER_LOCKSCREEN_UNIT, WEATHER_LOCKSCREEN_UNIT_VALIDATOR);
         }
 
         /**
