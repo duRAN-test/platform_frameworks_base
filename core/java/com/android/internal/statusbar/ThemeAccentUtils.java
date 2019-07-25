@@ -97,6 +97,26 @@ public class ThemeAccentUtils {
         "com.accents.qfour", // 25
         "com.accents.qfive", // 26
         "com.accents.qsix", // 27
+        "com.accents.brandone", // 28
+        "com.accents.brandtwo", // 29
+        "com.accents.brandthree", // 30
+        "com.accents.brandfour", // 31
+        "com.accents.brandfive", // 32
+        "com.accents.brandsix", // 33
+        "com.accents.brandseven", // 34
+        "com.accents.brandeight", // 35
+        "com.accents.brandnine", // 36
+        "com.accents.brandten", // 37
+        "com.accents.brandeleven", // 38
+        "com.accents.brandtwelve", // 39
+        "com.accents.brandthirteen", // 40
+        "com.accents.brandfourteen", // 41
+        "com.accents.brandfifteen", // 42
+        "com.accents.brandsixteen", // 43
+        "com.accents.brandseventeen", // 44
+        "com.accents.brandeighteen", // 45
+        "com.accents.brandnineteen", // 46
+        "com.accents.brandtwenty", // 47
     };
 
     private static final String[] QS_TILE_THEMES = {

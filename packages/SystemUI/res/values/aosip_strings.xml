@@ -219,6 +219,26 @@
     <string name="quick_settings_theme_tile_color_q_four">Q Ocean</string>
     <string name="quick_settings_theme_tile_color_q_five">Q Space</string>
     <string name="quick_settings_theme_tile_color_q_six">Q Orchid</string>
+    <string name="quick_settings_theme_tile_color_brand_one">AOSPA Green</string>
+    <string name="quick_settings_theme_tile_color_brand_two">Android One Green</string>
+    <string name="quick_settings_theme_tile_color_brand_three">Coca-Cola Red</string>
+    <string name="quick_settings_theme_tile_color_brand_four">Discord Purple</string>
+    <string name="quick_settings_theme_tile_color_brand_five">Facebook Blue</string>
+    <string name="quick_settings_theme_tile_color_brand_six">Instagram Cerise</string>
+    <string name="quick_settings_theme_tile_color_brand_seven">Jollibee Crimson</string>
+    <string name="quick_settings_theme_tile_color_brand_eight">Monster Energy Green</string>
+    <string name="quick_settings_theme_tile_color_brand_nine">Nextbit Mint</string>
+    <string name="quick_settings_theme_tile_color_brand_ten">OnePlus Red</string>
+    <string name="quick_settings_theme_tile_color_brand_eleven">Pepsi Blue</string>
+    <string name="quick_settings_theme_tile_color_brand_twelve">Pocophone Yellow</string>
+    <string name="quick_settings_theme_tile_color_brand_thirteen">Razer Green</string>
+    <string name="quick_settings_theme_tile_color_brand_fourteen">Samsung Blue</string>
+    <string name="quick_settings_theme_tile_color_brand_fifteen">Spotify Green</string>
+    <string name="quick_settings_theme_tile_color_brand_sixteen">Starbucks Green</string>
+    <string name="quick_settings_theme_tile_color_brand_seventeen">Twitch Purple</string>
+    <string name="quick_settings_theme_tile_color_brand_eighteen">Twitter Blue</string>
+    <string name="quick_settings_theme_tile_color_brand_nineteen">Xbox Green</string>
+    <string name="quick_settings_theme_tile_color_brand_twenty">Xiaomi Orange</string>
     <string name="theme_info_title">What is this?</string>
     <string name="theme_info_message">The Themes tile is a unique but easy to use tile that allows the user to change the system accent or theme.\n\nTo change between accents and themes, simply long press on the tile and then press again to select from the options offered.</string>
 
