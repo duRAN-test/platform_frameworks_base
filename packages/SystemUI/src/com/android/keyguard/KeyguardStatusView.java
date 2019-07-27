@@ -1189,7 +1189,6 @@ public class KeyguardStatusView extends GridLayout implements
         updateDozeVisibleViews();
         if (mClockSelection == 9) {
             mTextClock.setTextColor(blendedTextColor);
-            mTextClock.setDarkAmount(mDarkAmount);
         }
         updateVisibilities();
     }
