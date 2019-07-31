@@ -16,8 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- AOD QS tile -->
     <string name="quick_settings_aod_label">Активный дисплей</string>
+
     <!-- QS Colums & rows -->
     <string name="qs_menu_item_columns">Столбцы в портретном режиме</string>
     <string name="qs_menu_item_columns_landscape">Столбцы в ландшафтном режиме</string>
@@ -38,6 +40,7 @@
     <string name="qs_menu_item_rows_two">2</string>
     <string name="qs_menu_item_rows_three">3</string>
     <string name="qs_menu_item_rows_four">4</string>
+
     <!-- Navbar Tuner -->
     <string name="preview">Предварительный просмотр</string>
     <string name="keycode">Код клавиши</string>
@@ -61,6 +64,7 @@
     <string name="navbar_editor_summary">Настроить панель навигации</string>
     <string name="menu_ime_always_show">Меню / Раскладка (видна всегда)</string>
     <string name="search">Поиск</string>
+
     <!-- SysUI Tuner -->
     <string name="statusbar_icons_blacklist">Значки в строке состояния</string>
     <string name="navbar_tuner_activity">Кнопки панели навигации</string>
@@ -70,38 +74,49 @@
     <string name="status_bar_roaming">Роуминг</string>
     <string name="tuner_show_info_header_title">Показать заголовок</string>
     <string name="tuner_show_secure_title">Показать заголовок безопасности</string>
+
     <!-- ADB network tile -->
     <string name="quick_settings_adb_network">ADB по сети</string>
     <string name="quick_settings_network_adb_enabled_label">ADB по сети</string>
     <string name="quick_settings_network_adb_disabled_label">ADB по сети</string>
+
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Ярлыки экрана блокировки</string>
+
     <!-- LTE QS Tile -->
     <string name="qs_lte_label">LTE</string>
     <string name="lte_on">LTE вкл.</string>
     <string name="lte_off">LTE выкл.</string>
+
     <!-- HW Keys Tile -->
     <string name="accessibility_quick_settings_hwkeys_on">Аппаратные кнопки включены</string>
     <string name="accessibility_quick_settings_hwkeys_off">Аппаратные кнопки выключены</string>
     <string name="quick_settings_hwkeys_label">Аппаратные кнопки</string>
+
     <!-- Screenshot Delete Toast -->
     <string name="delete_screenshot_toast">Скриншот удален</string>
+
     <!-- Ambient Display Pixel-Like string -->
     <string name="ambientmusic_songinfo">%s от %s</string>
+
     <!-- Sound QS Tile -->
     <string name="quick_settings_sound_label">Звук</string>
     <string name="quick_settings_sound_ring">Звонок</string>
     <string name="quick_settings_sound_vibrate">Вибрация</string>
     <string name="quick_settings_sound_dnd">Не беспокоить</string>
+
     <!-- Immersive tile -->
     <string name="quick_settings_immersive_tile">Режим погружения</string>
     <string name="quick_settings_immersive_tile_statusbar">Скрытие строки состояния</string>
     <string name="quick_settings_immersive_tile_navbar">Скрытие панели навигации</string>
     <string name="quick_settings_immersive_tile_full">Полный полноэкранный режим</string>
+
     <!-- Caffeine QS Tile -->
     <string name="quick_settings_caffeine_label">Запрет сна</string>
+    <string name="quick_settings_caffeine_label_off">Выключено</string>
     <string name="accessibility_quick_settings_caffeine_off">Запрет сна включен</string>
     <string name="accessibility_quick_settings_caffeine_on">Запрет сна выключен</string>
+
     <!-- Power menu advanced restart -->
     <string name="global_action_restart_system">Перезагрузка</string>
     <string name="global_action_restart_advanced">Дополнительно</string>
@@ -110,30 +125,36 @@
     <string name="global_action_restart_ui">Интерфейс системы</string>
     <string name="global_action_restart_hot">Быстрая перезагрузка</string>
     <string name="global_action_screenshot">Скриншот</string>
+
     <!-- Kill button in notification guts -->
     <string name="force_stop_dlg_title">Остановить принудительно?</string>
     <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности.</string>
     <string name="guts_force_close_app">Завершить</string>
+
     <!-- Reboot/Recovery QS Tile -->
     <string name="quick_settings_reboot_label">Перезагрузка</string>
     <string name="quick_settings_reboot_recovery_label">Режим восстановления</string>
+
     <!-- Screenshot QS tile -->
     <string name="quick_settings_screenshot_label">Скриншот</string>
     <string name="quick_settings_region_screenshot_label">Частичный скриншот</string>
     <string name="screenshot_abort_title">Скриншот не был создан</string>
     <string name="screenshot_abort_text">Операция прервана.</string>
+
     <!-- Heads Up QS Tile -->
     <string name="quick_settings_heads_up_label">Всплывающие уведомления</string>
     <string name="accessibility_quick_settings_heads_up_off">Всплывающие уведомления выключены.</string>
     <string name="accessibility_quick_settings_heads_up_on">Всплывающие уведомления включены.</string>
     <string name="accessibility_quick_settings_heads_up_changed_off">Всплывающие уведомления выключены.</string>
     <string name="accessibility_quick_settings_heads_up_changed_on">Всплывающие уведомления включены.</string>
+
     <!-- USB Tethering tile -->
     <string name="accessibility_quick_settings_usb_tether_off">USB-модем выкл.</string>
     <string name="accessibility_quick_settings_usb_tether_on">USB-модем вкл.</string>
     <string name="accessibility_quick_settings_usb_tether_changed_off">USB-модем выключен</string>
     <string name="accessibility_quick_settings_usb_tether_changed_on">USB-модем включен</string>
     <string name="quick_settings_usb_tether_label">USB-модем</string>
+
     <!-- Gaming Mode -->
     <string name="gaming_mode_tile_title">Игровой режим</string>
     <string name="gaming_mode_tile_toast">Игровой режим включен</string>
@@ -142,19 +163,24 @@
     <string name="gaming_mode_dialog_message">Когда игровой режим включен, всплывающие уведомления будут заблокированы, а кнопки под экраном — выключены. После выхода из игрового режима они будут возвращены в состояние по умолчанию.</string>
     <string name="accessibility_quick_settings_gaming_mode_on">Включить игровой режим</string>
     <string name="accessibility_quick_settings_gaming_mode_off">Выключить игровой режим</string>
+
     <!-- Heads up snooze toast -->
     <string name="heads_up_snooze_message_one_minute"><xliff:g id="string">%s</xliff:g> - Всплывающие уведомления выключены на 1 минуту.</string>
     <string name="heads_up_snooze_message"><xliff:g id="string">%s</xliff:g> - Всплывающие уведомления выключены на <xliff:g id="number">%d</xliff:g> минут(ы).</string>
+
     <!-- SysUI Tuner: Button that controls inversion of layout of navigation bar [CHAR LIMIT=60] -->
     <string name="nav_bar_layout_inverse">Инвертировать порядок кнопок</string>
+
     <!-- QS customizer -->
     <string name="drag_or_tap_to_add_tiles">Перетащите или нажмите для добавления/удаления плиток</string>
+
     <!-- Sync QS Tile -->
     <string name="quick_settings_sync_label">Синхронизация</string>
     <string name="accessibility_quick_settings_sync_off">Синхронизация выключена</string>
     <string name="accessibility_quick_settings_sync_on">Синхронизация включена</string>
     <string name="accessibility_quick_settings_sync_changed_off">Синхронизация отключена</string>
     <string name="accessibility_quick_settings_sync_changed_on">Синхронизация включена</string>
+
     <!-- Theme tile -->
     <string name="system_theme_style_title">Тема оформления</string>
     <string name="system_theme_style_auto">Автоматически</string>
@@ -185,17 +211,35 @@
     <string name="quick_settings_theme_tile_color_blue_grey">Серо-голубой</string>
     <string name="quick_settings_theme_tile_color_black">Черный</string>
     <string name="quick_settings_theme_tile_color_white">Белый</string>
-    <string name="quick_settings_theme_tile_color_user_one">#StayDirty</string>
-    <string name="quick_settings_theme_tile_color_user_two">Виноград</string>
-    <string name="quick_settings_theme_tile_color_user_three">Синий</string>
-    <string name="quick_settings_theme_tile_color_user_four">Мята</string>
-    <string name="quick_settings_theme_tile_color_user_five">Деньги</string>
-    <string name="quick_settings_theme_tile_color_user_six">Песочный</string>
-    <string name="quick_settings_theme_tile_color_user_seven">Rams</string>
-    <string name="quick_settings_theme_tile_color_user_eight">Q</string>
-    <string name="quick_settings_theme_tile_color_user_nine">Q Зеленый</string>
+    <string name="quick_settings_theme_tile_color_q_one">Q Зелёный</string>
+    <string name="quick_settings_theme_tile_color_q_two">Q Фиолетовый</string>
+    <string name="quick_settings_theme_tile_color_q_three">Q Светло-коричневый</string>
+    <string name="quick_settings_theme_tile_color_q_four">Q Океан</string>
+    <string name="quick_settings_theme_tile_color_q_five">Q Космос</string>
+    <string name="quick_settings_theme_tile_color_q_six">Q Светло-лиловый</string>
+    <string name="quick_settings_theme_tile_color_brand_one">AOSPA (Зелёный)</string>
+    <string name="quick_settings_theme_tile_color_brand_two">Android One (Зелёный)</string>
+    <string name="quick_settings_theme_tile_color_brand_three">Coca-Cola (Красный)</string>
+    <string name="quick_settings_theme_tile_color_brand_four">Discord (Фиолетовый)</string>
+    <string name="quick_settings_theme_tile_color_brand_five">Facebook (Синий)</string>
+    <string name="quick_settings_theme_tile_color_brand_six">Instagram (Светло-вишневый)</string>
+    <string name="quick_settings_theme_tile_color_brand_seven">Jollibee (Малиновый)</string>
+    <string name="quick_settings_theme_tile_color_brand_eight">Monster Energy (Зелёный)</string>
+    <string name="quick_settings_theme_tile_color_brand_nine">Nextbit (Мятный)</string>
+    <string name="quick_settings_theme_tile_color_brand_ten">OnePlus (Красный)</string>
+    <string name="quick_settings_theme_tile_color_brand_eleven">Pepsi (Синий)</string>
+    <string name="quick_settings_theme_tile_color_brand_twelve">Pocophone (Жёлтый)</string>
+    <string name="quick_settings_theme_tile_color_brand_thirteen">Razer (Зелёный)</string>
+    <string name="quick_settings_theme_tile_color_brand_fourteen">Samsung (Синий)</string>
+    <string name="quick_settings_theme_tile_color_brand_fifteen">Spotify (Зелёный)</string>
+    <string name="quick_settings_theme_tile_color_brand_sixteen">Starbucks (Зелёный)</string>
+    <string name="quick_settings_theme_tile_color_brand_seventeen">Twitch (Фиолетовый)</string>
+    <string name="quick_settings_theme_tile_color_brand_eighteen">Twitter (Синий)</string>
+    <string name="quick_settings_theme_tile_color_brand_nineteen">Xbox (Зелёный)</string>
+    <string name="quick_settings_theme_tile_color_brand_twenty">Xiaomi (Оранжевый)</string>
     <string name="theme_info_title">Что это?</string>
-    <string name="theme_info_message">Плитка Темы - это уникальная, но простая в использовании плитка, которая позволяет пользователю изменять системный оттенок или стиль.\n\nЧтобы переключиться между оттенками и стилями, просто удерживайте плитку, а затем еще раз нажмите на нее, чтобы выбрать из предложенных вариантов.</string>
+    <string name="theme_info_message">Плитка \"Темы\" - это уникальная, но простая в использовании плитка, которая позволяет пользователю изменять системный оттенок или стиль.\n\nЧтобы переключиться между оттенками и стилями, просто удерживайте плитку, а затем еще раз нажмите на нее, чтобы выбрать из предложенных вариантов.</string>
+
     <!-- Screenrecord Notification Ticker -->
     <string name="screenrecord_notif_ticker">Идет запись экрана</string>
     <string name="screenrecord_notif_final_ticker">Экран успешно записан</string>
@@ -214,24 +258,31 @@
     <string name="screenrecord_show_hint">Показать подсказку</string>
     <!-- Screenshot QS tile -->
     <string name="quick_settings_screenrecord_label">Запись экрана</string>
+
     <!-- Indication on the keyguard that is shown when the device is charging with a dash charger. Should match keyguard_plugged_in_dash_charging [CHAR LIMIT=40]-->
     <string name="keyguard_indication_dash_charging_time"><xliff:g id="percentage">%2$s</xliff:g> • Быстрая зарядка (<xliff:g id="charging_time_left" example="4 часа и 2 минуты">%s</xliff:g> до полной зарядки)</string>
     <string name="keyguard_plugged_in_dash_charging">Быстрая зарядка</string>
+
     <!-- Smart Pixels QS Tile -->
     <string name="quick_settings_smart_pixels">Умные пиксели</string>
     <string name="quick_settings_smart_pixels_on_power_save">Автоматическое включение Умных пикселей</string>
+
     <!-- 4G LTE switch -->
     <string name="show_fourg_title">Показывать 4G вместо LTE</string>
+
     <!-- Volume panel QS tile -->
     <string name="quick_settings_volume_panel_label">Панель громкости</string>
+
     <!-- AOD media indication -->
     <string name="music_controls_no_title">Без названия</string>
+
     <!-- Content description of the location tile in quick settings when on, battery saving mode (not shown on the screen). [CHAR LIMIT=NONE] -->
     <string name="accessibility_quick_settings_location_battery_saving">Определение местоположения: режим энергосбережения.</string>
     <!-- Content description of the location tile in quick settings when on, sensors only mode (not shown on the screen). [CHAR LIMIT=NONE] -->
     <string name="accessibility_quick_settings_location_gps_only">Определение местоположения: только GPS.</string>
     <!-- Content description of the location tile in quick settings when on, high accuracy mode (not shown on the screen). [CHAR LIMIT=NONE] -->
     <string name="accessibility_quick_settings_location_high_accuracy">Определение местоположения: по всем источникам.</string>
+
     <!-- QuickSettings: Location (On, low-power) [CHAR LIMIT=NONE] -->
     <string name="quick_settings_location_battery_saving_label">Энергосбережение</string>
     <string name="quick_settings_location_battery_saving_label_twoline">Экономия батареи</string>
@@ -241,6 +292,7 @@
     <!-- QuickSettings: Location (On, high-accuracy) [CHAR LIMIT=NONE] -->
     <string name="quick_settings_location_high_accuracy_label">По всем источникам</string>
     <string name="quick_settings_location_high_accuracy_label_twoline">Высокая точность</string>
+
     <!-- QuickSettings: Location detail panel title [CHAR LIMIT=NONE] -->
     <string name="quick_settings_location_detail_title">Местоположение</string>
     <!-- QuickSettings: Location detail panel menu title [CHAR LIMIT=NONE] -->
@@ -257,4 +309,31 @@
     <string name="quick_settings_location_detail_mode_battery_saving_description">Использовать Wi‑Fi, Bluetooth и мобильные сети для определения местоположения</string>
     <!-- [CHAR LIMIT=130] Location detail panel, description for sensors only mode -->
     <string name="quick_settings_location_detail_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
+
+    <!-- Font Tile -->
+    <string name="quick_settings_font_label">Шрифты</string>
+    <string name="quick_settings_font_detail_label">Выберите шрифт</string>
+
+    <!-- Navigation Bar tile -->
+    <string name="quick_settings_navbar_title">Панель навигации</string>
+    <string name="accessibility_quick_settings_navbar_off">Синхронизация выключена</string>
+    <string name="accessibility_quick_settings_navbar_on">Синхронизация включена</string>
+    <string name="accessibility_quick_settings_navbar_changed_off">Панель навигации выключена</string>
+    <string name="accessibility_quick_settings_navbar_changed_on">Панель навигации включена</string>
+
+    <!-- QuickSettings: ScreenStabilization tile [CHAR LIMIT=NONE] -->
+    <string name="quick_settings_stabilization_label">Стабилизация экрана</string>
+    <!-- QuickSettings: ScreenStabilization (off) [CHAR LIMIT=NONE] -->
+    <string name="quick_settings_stabilization_off">Стабилизация экрана</string>
+    <!-- QuickSettings: ScreenStabilization (on) [CHAR LIMIT=NONE] -->
+    <string name="quick_settings_stabilization_on">Стабилизация экрана</string>
+
+    <!-- Music tile -->
+    <string name="quick_settings_music_label">Музыка</string>
+    <string name="quick_settings_music_play">Проигрывание</string>
+    <string name="quick_settings_music_pause">Пауза</string>
+
+    <!-- Language toggle tile -->
+    <string name="quick_settings_locale_label">Язык</string>
+    <string name="quick_settings_locale_more_locales_toast">Пожалуйста, настройте несколько языков в настройках, чтобы включить эту функцию</string>
 </resources>
