@@ -129,4 +129,17 @@
     <string name="adb_active_generic_notification_message">Нажмите, чтобы отключить отладку.</string>
     <!-- Pocket Lock -->
     <string name="pocket_lock_message_long_press">Удерживайте кнопку питания для взаимодействия</string>
+
+    <!-- Font service -->
+    <!-- [CHAR LIMIT=NONE] Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <string name="permlab_accessFontManager">доступ к менеджеру шрифтов</string>
+    <!-- [CHAR LIMIT=NONE] Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <string name="permdesc_accessFontManager">Разрешается доступ к менеджеру шрифтов для приложения.</string>
+    <!-- [CHAR LIMIT=NONE] Error when a package is installed but got the missing fonts.xml file, notifying the user why it isn't showing up. -->
+    <string name="fontservice_incompatible_font">Установленный вами пакет шрифтов не совместим из-за отсутствия файла fonts.xml в его файлах. Пожалуйста, свяжитесь с разработчиком пакета для добавления поддержки.</string>
+
+    <!-- Battery fully charged notification -->
+    <string name="notify_battery_fully_charged_title">Батарея полностью заряжена</string>
+    <string name="notify_battery_fully_charged_text">Отключите ваше устройство от зарядки, чтобы сохранить здоровье вашей батареи.</string>
+    <string name="battery_charged_channel_name">Батарея заряжена</string>
 </resources>
